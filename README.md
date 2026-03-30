@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Pedro Saluzzi!
 
 🎓 I graduated with a Bachelor's Degree in Business Analytics from UCEMA, Buenos Aires.
+
 💡 I'm passionate about understanding how data drives business and financial strategies — and how creative thinking can enhance decision-making.  
 ---
 
