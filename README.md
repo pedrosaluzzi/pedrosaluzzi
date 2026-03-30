@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Pedro Saluzzi!
 
-🎓 I'm in my final year of a Bachelor's Degree in Business Analytics at UCEMA, Buenos Aires.  
-🌍 I recently completed an international exchange at Rennes School of Business in France.  
+🎓 I graduated with a Bachelor's Degree in Business Analytics from UCEMA, Buenos Aires.
 💡 I'm passionate about understanding how data drives business and financial strategies — and how creative thinking can enhance decision-making.  
 ---
 
